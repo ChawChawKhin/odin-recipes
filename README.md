@@ -1,6 +1,6 @@
 # odin-recipes
 
-The live version is **[here](https://chawchawkhin.github.io/odin-recipes/)**
+The live version is <a href="https://chawchawkhin.github.io/odin-recipes/" target="_blank">Here</a> 
 
 the practice of HTML knowledge from the foundation course of the odin project
 
