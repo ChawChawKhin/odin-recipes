@@ -1,5 +1,7 @@
 # odin-recipes
 
+The live version is **[here](https://chawchawkhin.github.io/odin-recipes/)**
+
 the practice of HTML knowledge from the foundation course of the odin project
 
 The website will consist of a main index page which will have links to a few recipes. 
